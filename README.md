@@ -1,6 +1,7 @@
 
 ## Overview
 
+This repository currently provides the core inference code of GCDT. The full implementation, including training, preprocessing, and complete reproduction scripts, will be fully released upon paper acceptance.
 
 ## Repository Structure
 
